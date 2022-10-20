@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono&display=swap');
+
+
+
+
+.searchcard::placeholder {
+    font-family: 'Space Mono';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    color: #4B6A9B;
+}
+
+.bluebox {
+    width: 106px;
+    height: 50px;
+    background: #0079FF;
+    border-radius: 10px;
+    font-family: 'Space Mono';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FFFFFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    margin-right: 20px;
+}
+
+.searchcard {
+
+
+    font-family: 'Space Mono';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    color: #222731;
+    margin-left: 20px;
+
+}
+
+.searchcard:focus {
+    outline: none;
+}
+
+.imgsearch {
+    padding-left: 32px;
+
+}
+
+input {
+    border: none;
+    width: 500px;
+
+
+
+    height: 50px;
+}
+
+
+
+
+
+#search {
+    max-width: 730px;
+    width: 90%;
+    height: 69px;
+    background: #FEFEFE;
+    box-shadow: 0px 16px 30px -10px rgba(70, 96, 187, 0.198567);
+    border-radius: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border: none;
+}
+
+@media (max-width:375px) {
+    .searchcard {
+        max-width: 100px;
+        width: 90%;
+
+    }
+}

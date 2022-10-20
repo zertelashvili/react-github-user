@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono&display=swap');
+
+.header1 {
+    font-family: 'Space Mono';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 39px;
+    color: #222731;
+
+}
+
+.card {
+    max-width: 730px;
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.header2 {
+    font-family: 'Space Mono';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 13px;
+    line-height: 19px;
+
+    letter-spacing: 2.5px;
+
+    color: #697C9A;
+
+}
+
+.txticon {
+    width: 100px;
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.icon1 {
+    width: 20px;
+    height: 20px;
+    margin-top: 10%;
+}
