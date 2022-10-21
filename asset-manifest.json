@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-github-user/static/css/main.75caca9e.css",
+    "main.js": "/react-github-user/static/js/main.75368c40.js",
+    "static/js/787.5b3bb97c.chunk.js": "/react-github-user/static/js/787.5b3bb97c.chunk.js",
+    "static/media/icon-website.svg": "/react-github-user/static/media/icon-website.b7923f6c1dae9717c079c60d8a5c82e5.svg",
+    "static/media/icon-company.svg": "/react-github-user/static/media/icon-company.6f78ffb334b191c8ed54d0c2a6f7cc25.svg",
+    "index.html": "/react-github-user/index.html",
+    "static/media/icon-twitter.svg": "/react-github-user/static/media/icon-twitter.f6a2a695fbb260b28a9fd67dd4179ea5.svg",
+    "static/media/icon-moon.svg": "/react-github-user/static/media/icon-moon.cce754cec46d095fd3ce12737f38694b.svg",
+    "static/media/icon-search.svg": "/react-github-user/static/media/icon-search.0cc0c98424cc75d5e1dfbb9e3abb6785.svg",
+    "static/media/icon-location.svg": "/react-github-user/static/media/icon-location.f11c5487a9922cbad40a27e8cc1cfaee.svg",
+    "main.75caca9e.css.map": "/react-github-user/static/css/main.75caca9e.css.map",
+    "main.75368c40.js.map": "/react-github-user/static/js/main.75368c40.js.map",
+    "787.5b3bb97c.chunk.js.map": "/react-github-user/static/js/787.5b3bb97c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75caca9e.css",
+    "static/js/main.75368c40.js"
+  ]
+}
